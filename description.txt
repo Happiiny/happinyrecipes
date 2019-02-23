@@ -1,0 +1,28 @@
+Happiiny's Miscellaneous Recipes - Not too easy, not too hard.
+
+Tired of other recipe mods simply being too easy or allowing you to craft too many items? This mod aims to fix that for you! I aim to add recipes for items that are difficult to find or obtain large quantities of without making things too easy. The recipes are made to encourage finding the item, and moreso act as a backup for if you simply can't find it or need to make some extras.
+
+Mod crafting recipes and more information can be found at the homepage.
+
+[Updates]
+* V1.0 - 2/22/19
+20 Recipes Added (Initial Release) -
+* Anklet of the Wind
+* Hermes Boots
+* Ice Skates
+* Lava Charm
+* Shiny Red Balloon
+* Lucky Horseshoe
+* Water Walking Boots
+* Band of Regeneration
+* Band of Starpower
+* Magic Mirror
+* Celestial Magnet
+* Feral Claws
+* Cobalt Shield
+* Frozen Turtle Shell
+* Magma Stone
+* Worm Scarf
+* Neptune's Shell
+* Slime Staff
+
