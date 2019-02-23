@@ -2,6 +2,7 @@ Happiiny's Miscellaneous Recipes - Not too easy, not too hard.
 
 Tired of other recipe mods simply being too easy or allowing you to craft too many items? This mod aims to fix that for you! I aim to add recipes for items that are difficult to find or obtain large quantities of without making things too easy. The recipes are made to encourage finding the item, and moreso act as a backup for if you simply can't find it or need to make some extras.
 
+
 Mod crafting recipes and more information can be found at the homepage.
 
 [Updates]

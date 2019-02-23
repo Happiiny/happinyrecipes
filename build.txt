@@ -1,3 +1,9 @@
 author = Happiiny
 version = 1.0
-displayName = Happiny's Miscellaneous Recipes 
+displayName = Happiiny's Miscellaneous Recipes
+homepage = 
+hideCode = true
+hideResources = true
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
