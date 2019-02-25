@@ -269,6 +269,36 @@ namespace happinymod
 			recipe.AddTile(TileID.WorkBenches);
 			recipe.SetResult(ItemID.SlimeStaff);
 			recipe.AddRecipe();
+			
+			//Cloud in a bottle
+                        recipe = new ModRecipe(this);
+			recipe.AddIngredient(ItemID.Bottle);
+			recipe.AddIngredient(ItemID.Cloud, 50);
+			recipe.AddIngredient(ItemID.FallenStar, 5)
+                        recipe.AddIngredient(ItemID.Feather, 5)
+			recipe.AddTile(TileID.WorkBenches);
+			recipe.SetResult(ItemID.CloudinaBottle);
+			recipe.AddRecipe();
+
+                        //Blizzard in a bottle
+                        recipe = new ModRecipe(this);
+			recipe.AddIngredient(ItemID.CloudinaBottle);
+			recipe.AddIngredient(ItemID.IceBlock, 50);
+			recipe.AddIngredient(ItemID.SnowBlock, 100)
+                        recipe.AddIngredient(ItemID.Slush, 50)
+			recipe.AddTile(TileID.WorkBenches);
+			recipe.SetResult(ItemID.BlizzardinaBottle);
+			recipe.AddRecipe();
+
+                        //Sandstorm in a bottle
+                        recipe = new ModRecipe(this);
+			recipe.AddIngredient(ItemID.CloudinaBottle);
+			recipe.AddIngredient(ItemID.SandBlock, 50);
+			recipe.AddIngredient(ItemID.AntlionMandible, 5)
+                        recipe.AddIngredient(ItemID.HardenedFossil, 5)
+			recipe.AddTile(TileID.WorkBenches);
+			recipe.SetResult(ItemID.SandstorminaBottle);
+			recipe.AddRecipe();
         }
     }
 }
