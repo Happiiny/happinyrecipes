@@ -285,7 +285,7 @@ namespace happinymod
 			recipe.AddIngredient(ItemID.CloudinaBottle);
 			recipe.AddIngredient(ItemID.IceBlock, 50);
 			recipe.AddIngredient(ItemID.SnowBlock, 100);
-            recipe.AddIngredient(ItemID.Slush, 50);
+            recipe.AddIngredient(ItemID.SlushBlock, 50);
 			recipe.AddTile(TileID.WorkBenches);
 			recipe.SetResult(ItemID.BlizzardinaBottle);
 			recipe.AddRecipe();
