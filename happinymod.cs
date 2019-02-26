@@ -295,7 +295,7 @@ namespace happinymod
 			recipe.AddIngredient(ItemID.CloudinaBottle);
 			recipe.AddIngredient(ItemID.SandBlock, 50);
 			recipe.AddIngredient(ItemID.AntlionMandible, 5);
-            recipe.AddIngredient(ItemID.HardenedFossil, 5);
+            recipe.AddIngredient(ItemID.DesertFossil, 5);
 			recipe.AddTile(TileID.WorkBenches);
 			recipe.SetResult(ItemID.SandstorminaBottle);
 			recipe.AddRecipe();
