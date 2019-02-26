@@ -6,7 +6,10 @@ Tired of other recipe mods simply being too easy or allowing you to craft too ma
 Mod crafting recipes and more information can be found at the homepage.
 
 [Updates]
-* V1.0.2
+* V1.1 - 2/25/19
+Added crafting recipes for all 3 "cloud in a bottle" items.
+
+* V1.0.2 - 2/22/19
 Fixed potential mod browser error
 
 * V1.0.1 - 2/22/19

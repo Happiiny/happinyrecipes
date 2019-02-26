@@ -1,5 +1,5 @@
 author = Happiiny
-version = 1.0.2
+version = 1.1
 displayName = Happiiny's Miscellaneous Recipes
 homepage = https://forums.terraria.org/index.php?threads/happiinys-assorted-mods.77800/
 hideCode = true
